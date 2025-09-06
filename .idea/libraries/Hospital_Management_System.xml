@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Hospital Management System">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/mysql-connector-j-9.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
