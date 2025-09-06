@@ -7,6 +7,8 @@ public class Patient {
     private Connection connection;
     private Scanner sc;
 
+//    This is s patient class which is used to add and view patients
+
     public Patient(Connection connection, Scanner scanner){
         this.connection = connection;
         this.sc = scanner;
